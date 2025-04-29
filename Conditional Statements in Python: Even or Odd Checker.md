@@ -21,5 +21,8 @@ else:
 ```
 
 ## Output
+![Screenshot 2025-04-29 110131](https://github.com/user-attachments/assets/9779fa9f-6f9f-4faa-ac3c-81113502629e)
+
 
 ## Result
+Thus the program executed successfully.
